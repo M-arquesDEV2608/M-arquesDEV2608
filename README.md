@@ -41,7 +41,6 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 ## 💡 Sobre Mim
 
 - 🎓 Atualmente estudo no **Senai Guarulhos**
-- 💻 Estou aprendendo **HTML, CSS, JavaScript, Python, MySQL, Java e Flutter**
 - 🎯 Meu objetivo é **Ser desenvolvedor Full Stack**
 - 📚 Gosto de aprender sobre **Front-End e Back-End**
 
