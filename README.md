@@ -35,7 +35,6 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | **Perfil** | [🔗 Ver online](https://m-arquesdev2608.github.io/Perfil/) | HTML / CSS |
 | **FlexBox** | [🔗 Ver online](https://m-arquesdev2608.github.io/FlexBox/) | HTML / CSS |
 
-> 💡 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
 
 ---
 
